@@ -1,0 +1,374 @@
+[
+  {
+    "key" : 0,
+    "groupName": "affectionate",
+    "feelingsList": [
+      "compassionate",
+      "friendly",
+      "loving",
+      "open hearted",
+      "sympathetic",
+      "tender",
+      "warm"
+    ]
+  },
+  {
+    "key" : 1,
+    "groupName": "engaged",
+    "feelingsList": [
+      "absorbed",
+      "alert",
+      "curious",
+      "engrossed",
+      "enchanted",
+      "entranced",
+      "fascinated",
+      "interested",
+      "intrigued",
+      "involved",
+      "spellbound",
+      "stimulated"
+    ]
+  },
+  {
+    "key" : 2,
+    "groupName": "hopeful",
+    "feelingsList": [
+      "expectant",
+      "encouraged",
+      "optimistic"
+    ]
+  },
+  {
+    "key" : 3,
+    "groupName": "confident",
+    "feelingsList": [
+      "empowered",
+      "open",
+      "proud",
+      "safe",
+      "secure"
+    ]
+  },
+  {
+    "key" : 4,
+    "groupName": "excited",
+    "feelingsList": [
+      "amazed",
+      "animated",
+      "ardent",
+      "aroused",
+      "astonished",
+      "dazzled",
+      "eager",
+      "energetic",
+      "enthusiastic",
+      "giddy",
+      "invigorated",
+      "lively",
+      "passionate",
+      "surprised",
+      "vibrant"
+    ]
+  },
+  {
+    "key" : 5,
+    "groupName": "grateful",
+    "feelingsList": [
+      "appreciative",
+      "moved",
+      "thankful",
+      "touched"
+    ]
+  },
+  {
+    "key" : 6,
+    "groupName": "inspired",
+    "feelingsList": [
+      "amazed",
+      "awed",
+      "wonder"
+    ]
+  },
+  {
+    "key" : 7,
+    "groupName": "joyful",
+    "feelingsList": [
+      "amused",
+      "delighted",
+      "glad",
+      "happy",
+      "jubilant",
+      "pleased",
+      "tickled"
+    ]
+  },
+  {
+    "key" : 8,
+    "groupName": "exhilarated",
+    "feelingsList": [
+      "blissful",
+      "ecstatic",
+      "elated",
+      "enthralled",
+      "exuberant",
+      "radiant",
+      "rapturous",
+      "thrilled"
+    ]
+  },
+  {
+    "key" : 9,
+    "groupName": "peaceful",
+    "feelingsList": [
+      "calm",
+      "clear headed",
+      "comfortable",
+      "centered",
+      "content",
+      "equanimous",
+      "fulfilled",
+      "mellow",
+      "quiet",
+      "relaxed",
+      "relieved",
+      "satisfied",
+      "serene",
+      "still",
+      "tranquil",
+      "trusting"
+    ]
+  },
+  {
+    "key" : 10,
+    "groupName": "refreshed",
+    "feelingsList": [
+      "enlivened",
+      "rejuvenated",
+      "renewed",
+      "rested",
+      "restored",
+      "revived"
+    ]
+  },
+  {
+    "key" : 11,
+    "groupName": "afraid",
+    "feelingsList": [
+      "apprehensive",
+      "dread",
+      "foreboding",
+      "frightened",
+      "mistrustful",
+      "panicked",
+      "petrified",
+      "scared",
+      "suspicious",
+      "terrified",
+      "wary",
+      "worried"
+    ]
+  },
+  {
+    "key" : 12,
+    "groupName": "annoyed",
+    "feelingsList": [
+      "aggravated",
+      "dismayed",
+      "disgruntled",
+      "displeased",
+      "exasperated",
+      "frustrated",
+      "impatient",
+      "irritated",
+      "irked"
+    ]
+  },
+  {
+    "key" : 13,
+    "groupName": "angry",
+    "feelingsList": [
+      "enraged",
+      "furious",
+      "incensed",
+      "indignant",
+      "irate",
+      "livid",
+      "outraged",
+      "resentful"
+    ]
+  },
+  {
+    "key" : 14,
+    "groupName": "aversion",
+    "feelingsList": [
+      "animosity",
+      "appalled",
+      "contempt",
+      "disgusted",
+      "dislike",
+      "hate",
+      "horrified",
+      "hostile",
+      "repulsed"
+    ]
+  },
+  {
+    "key" : 15,
+    "groupName": "confused",
+    "feelingsList": [
+      "ambivalent",
+      "baffled",
+      "bewildered",
+      "dazed",
+      "hesitant",
+      "lost",
+      "mystified",
+      "perplexed",
+      "puzzled",
+      "torn"
+    ]
+  },
+  {
+    "key" : 16,
+    "groupName": "disconnected",
+    "feelingsList": [
+      "alienated",
+      "aloof",
+      "apathetic",
+      "bored",
+      "cold",
+      "detached",
+      "distant",
+      "distracted",
+      "indifferent",
+      "numb",
+      "removed",
+      "uninterested",
+      "withdrawn"
+    ]
+  },
+  {
+    "key" : 17,
+    "groupName": "disquiet",
+    "feelingsList": [
+      "agitated",
+      "alarmed",
+      "discombobulated",
+      "disconcerted",
+      "disturbed",
+      "perturbed",
+      "rattled",
+      "restless",
+      "shocked",
+      "startled",
+      "surprised",
+      "troubled",
+      "turbulent",
+      "turmoil",
+      "uncomfortable",
+      "uneasy",
+      "unnerved",
+      "unsettled",
+      "upset"
+    ]
+  },
+  {
+    "key" : 18,
+    "groupName": "embarrassed",
+    "feelingsList": [
+      "ashamed",
+      "chagrined",
+      "flustered",
+      "guilty",
+      "mortified",
+      "self-conscious"
+    ]
+  },
+  {
+    "key" : 19,
+    "groupName": "fatigue",
+    "feelingsList": [
+      "beat",
+      "burnt out",
+      "depleted",
+      "exhausted",
+      "lethargic",
+      "listless",
+      "sleepy",
+      "tired",
+      "weary",
+      "worn out"
+    ]
+  },
+  {
+    "key" : 20,
+    "groupName": "pain",
+    "feelingsList": [
+      "agony",
+      "anguished",
+      "bereaved",
+      "devastated",
+      "grief",
+      "heartbroken",
+      "hurt",
+      "lonely",
+      "miserable",
+      "regretful",
+      "remorseful"
+    ]
+  },
+  {
+    "key" : 21,
+    "groupName": "sad",
+    "feelingsList": [
+      "depressed",
+      "dejected",
+      "despair",
+      "despondent",
+      "disappointed",
+      "discouraged",
+      "disheartened",
+      "forlorn",
+      "gloomy",
+      "heavy hearted",
+      "hopeless",
+      "melancholy",
+      "unhappy",
+      "wretched"
+    ]
+  },
+  {
+    "key" : 22,
+    "groupName": "tense",
+    "feelingsList": [
+      "anxious",
+      "cranky",
+      "distressed",
+      "distraught",
+      "edgy",
+      "fidgety",
+      "frazzled",
+      "irritable",
+      "jittery",
+      "nervous",
+      "overwhelmed",
+      "restless",
+      "stressed out"
+    ]
+  },
+  {
+    "key" : 23,
+    "groupName": "vulnerable",
+    "feelingsList": [
+      "fragile",
+      "guarded",
+      "helpless",
+      "insecure",
+      "leery",
+      "reserved",
+      "sensitive",
+      "shaky"
+    ]
+  }
+]
